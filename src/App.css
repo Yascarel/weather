@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(portada1.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.loading {
+  font-size: 2rem;
+  color: white;
+}
